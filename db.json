@@ -1,0 +1,67 @@
+{ 
+  "tareas":[
+      {
+      "id": 1,
+      "title": "Testear BD",
+      "description": "Testear el acceso a base de dato",
+      "time": "1",
+      "image": "https://img.freepik.com/foto-gratis/hombre-ingeniero-probando-fibra-optica_23-2148323460.jpg?w=1380&t=st=1698091526~exp=1698092126~hmac=ba7edd370c6268dc43dbc521576fac27a5734604870a664f17ae3052d319a3ff",
+      "responsable":"Tester",
+      "estado": "Por Testear"
+    },
+    {
+      "id": 2,
+      "title": "Testear Metodo Spring",
+      "description": "Testear metodo spring boot PUT",
+      "time": "1",
+      "image": "https://img.freepik.com/foto-gratis/hombre-ingeniero-probando-fibra-optica_23-2148323460.jpg?w=1380&t=st=1698091526~exp=1698092126~hmac=ba7edd370c6268dc43dbc521576fac27a5734604870a664f17ae3052d319a3ff",
+      "responsable":"Tester",
+      "estado": "Por Testear"
+    },
+    {
+      "id": 3,
+      "title": "Realizar Api Rest",
+      "description": "Hacer Api Rest utilizando SpringBoot",
+      "time": "2",
+      "image": "https://img.freepik.com/foto-gratis/hombre-trabajando_144627-24914.jpg?w=1380&t=st=1698091347~exp=1698091947~hmac=3fdda228b5e54cf7f71f337d723ecd0ec02b6077a1eeb7add4ff8a3c48883f1d",
+      "responsable":"Programador",
+      "estado": "Por Hacer"
+    },
+    {
+        "id": 4,
+        "title": "Corregir Base de Datos",
+        "description": "Modificar la tabla de productos en la base de datos",
+        "time": "4",
+        "image": "https://img.freepik.com/foto-gratis/hombre-trabajando_144627-24914.jpg?w=1380&t=st=1698091347~exp=1698091947~hmac=3fdda228b5e54cf7f71f337d723ecd0ec02b6077a1eeb7add4ff8a3c48883f1d",
+        "responsable":"Programador",
+        "estado": "Por Hacer"
+    },
+    {
+        "id": 5,
+        "title": "Corregir formulario",
+        "description": "Corregir el formulario de ingreso de correo electronico",
+        "time": "6",
+        "image": "https://img.freepik.com/foto-gratis/hombre-trabajando_144627-24914.jpg?w=1380&t=st=1698091347~exp=1698091947~hmac=3fdda228b5e54cf7f71f337d723ecd0ec02b6077a1eeb7add4ff8a3c48883f1d",
+        "responsable":"Programador",
+        "estado": "Por Hacer"
+    },
+    {
+      "id": 10,
+      "title": "Corregir carrusel",
+      "description": "Corregir el carrusel de la pagina principal",
+      "time": "1",
+      "image": "https://img.freepik.com/foto-gratis/trabajador-fabrica-uniforme-protector-maquina-industrial-operativa-casco-linea-produccion_342744-218.jpg?w=1380&t=st=1698091418~exp=1698092018~hmac=b5f642946b4871d3f2c2485d0c7bd02c0a04e509c4aff256ebe7937b5be0f9ca",
+      "responsable":"Programador",
+      "estado": "En Produccion"
+    },
+    {
+      "id": 11,
+      "title": "Actualizar archivos",
+      "description": "Actualizar archivos de index.html",
+      "time": "6",
+      "image": "https://img.freepik.com/foto-gratis/trabajador-fabrica-uniforme-protector-maquina-industrial-operativa-casco-linea-produccion_342744-218.jpg?w=1380&t=st=1698091418~exp=1698092018~hmac=b5f642946b4871d3f2c2485d0c7bd02c0a04e509c4aff256ebe7937b5be0f9ca",
+      "responsable":"Programador",
+      "estado": "En Produccion"
+    } 
+  ]
+}

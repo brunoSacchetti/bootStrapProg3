@@ -1,0 +1,11 @@
+mkdir public
+echo 'hello world' > public/index.html
+json-server dbPorTestear.json
+json-server dbPorTestear.json --static ./some-other-dir
+
+// para verlo
+json-server --watch db.json
+
+luego nos dirijimos a:
+    http://localhost:3000/tareas
+    
